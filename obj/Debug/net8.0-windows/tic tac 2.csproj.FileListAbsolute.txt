@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\tic tac 2\bin\Debug\net8.0-windows\tic tac 2.exe
+C:\Users\Admin\source\repos\tic tac 2\bin\Debug\net8.0-windows\tic tac 2.deps.json
+C:\Users\Admin\source\repos\tic tac 2\bin\Debug\net8.0-windows\tic tac 2.runtimeconfig.json
+C:\Users\Admin\source\repos\tic tac 2\bin\Debug\net8.0-windows\tic tac 2.dll
+C:\Users\Admin\source\repos\tic tac 2\bin\Debug\net8.0-windows\tic tac 2.pdb
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic_tac_2.Form1.resources
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic_tac_2.tictac.resources
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic tac 2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic tac 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic tac 2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic tac 2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic tac 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic tac 2.dll
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\refint\tic tac 2.dll
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic tac 2.pdb
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic tac 2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\ref\tic tac 2.dll
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic_tac_2.sub.resources

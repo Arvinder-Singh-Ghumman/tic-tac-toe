@@ -1,0 +1,36 @@
+C:\Users\Admin\source\repos\tic tac 2\bin\Debug\net8.0-windows\tictac.exe
+C:\Users\Admin\source\repos\tic tac 2\bin\Debug\net8.0-windows\tictac.deps.json
+C:\Users\Admin\source\repos\tic tac 2\bin\Debug\net8.0-windows\tictac.runtimeconfig.json
+C:\Users\Admin\source\repos\tic tac 2\bin\Debug\net8.0-windows\tictac.dll
+C:\Users\Admin\source\repos\tic tac 2\bin\Debug\net8.0-windows\tictac.pdb
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic_tac_2.Form1.resources
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic_tac_2.sub.resources
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tic_tac_2.tictac.resources
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tictac.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tictac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tictac.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tictac.AssemblyInfo.cs
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tictac.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tictac.dll
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\refint\tictac.dll
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tictac.pdb
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\tictac.genruntimeconfig.cache
+C:\Users\Admin\source\repos\tic tac 2\obj\Debug\net8.0-windows\ref\tictac.dll
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\bin\Debug\net8.0-windows\tictac.exe
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\bin\Debug\net8.0-windows\tictac.deps.json
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\bin\Debug\net8.0-windows\tictac.runtimeconfig.json
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\bin\Debug\net8.0-windows\tictac.dll
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\bin\Debug\net8.0-windows\tictac.pdb
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\obj\Debug\net8.0-windows\tic_tac_2.Form1.resources
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\obj\Debug\net8.0-windows\tic_tac_2.subBoard.resources
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\obj\Debug\net8.0-windows\tictac.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\obj\Debug\net8.0-windows\tictac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\obj\Debug\net8.0-windows\tictac.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\obj\Debug\net8.0-windows\tictac.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\obj\Debug\net8.0-windows\tictac.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\obj\Debug\net8.0-windows\tictac.dll
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\obj\Debug\net8.0-windows\refint\tictac.dll
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\obj\Debug\net8.0-windows\tictac.pdb
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\obj\Debug\net8.0-windows\tictac.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\obj\Debug\net8.0-windows\ref\tictac.dll
+C:\Users\Lenovo\Downloads\tic tac 2\tic tac 2\obj\Debug\net8.0-windows\tic_tac_2.tictactoe.resources
